@@ -1,0 +1,8 @@
+1) pip install "paddleocr>=2.0.1"
+2) pip install paddleocr --upgrade
+3) pip install paddlepaddle
+4) optional: in want to draw result image - need to provide path to 'simfang.ttf' font
+
+
+Notes:
+* in the first 'running' internet connection is required in order to download necessary packages

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DrugList>
+<Item Id="61" ValidationStringsGroup1="" ValidationStringsGroup2="100mg/5ml&#xD;&#xA;/5ml&#xD;&#xA;100m&#xD;&#xA;20" ValidationStringsGroup3="Irin&#xD;&#xA;teca" />
+<Item Id="62" ValidationStringsGroup1="Ebetax" ValidationStringsGroup2="50&#xD;&#xA;300&#xD;&#xA;6" ValidationStringsGroup3="paclitaxel" />
+<Item Id="63" ValidationStringsGroup1="teua&#xD;&#xA;Tevaq&#xD;&#xA;Teva" ValidationStringsGroup2="450mg/45m&#xD;&#xA;450mg/45&#xD;&#xA;450mg/45ml&#xD;&#xA;45&#xD;&#xA;450" ValidationStringsGroup3="Carb" />
+<Item Id="64" ValidationStringsGroup1="Teva" ValidationStringsGroup2="100mg/20€&#xD;&#xA;100mg/20m!&#xD;&#xA;100&#xD;&#xA;20ml&#xD;&#xA;20&#xD;&#xA;IOOmg/20ml" ValidationStringsGroup3="Oxali&#xD;&#xA;Oxaliplatin" />
+<Item Id="65" ValidationStringsGroup1="Teva" ValidationStringsGroup2="5000åg/100ml&#xD;&#xA;100" ValidationStringsGroup3="FluorouratllTqe&#xD;&#xA;Fluoreuracil&#xD;&#xA;Fluorouraci\&#xD;&#xA;Fluorouracil" />
+<Item Id="66" ValidationStringsGroup1="Abiplatin" ValidationStringsGroup2="50mg/50ml&#xD;&#xA;50" ValidationStringsGroup3="Cisplatin" />
+<Item Id="67" ValidationStringsGroup1="medac" ValidationStringsGroup2="40&#xD;&#xA;1" ValidationStringsGroup3="Mitomycin:.€&#xD;&#xA;Mitomycin&#xD;&#xA;Mitornycin&#xD;&#xA;Mitomycim" />
+<Item Id="68" ValidationStringsGroup1="Holoxan" ValidationStringsGroup2="2&#xD;&#xA;2gNial" ValidationStringsGroup3="Ifosfamide" />
+<Item Id="69" ValidationStringsGroup1="Taro" ValidationStringsGroup2="500" ValidationStringsGroup3="Pemetrex" />
+<Item Id="70" ValidationStringsGroup1="Ebewe" ValidationStringsGroup2="40&#xD;&#xA;1000" ValidationStringsGroup3="Gemcitabine" />
+</DrugList>
